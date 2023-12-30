@@ -14,6 +14,10 @@ Explore the possibilities with JJJAD Productions. Transform your vision into com
 
 Contact us today to discuss how we can bring your ideas to life through a blend of creativity and technical mastery.
 
+
+
+.
+
 <form
   action="https://formspree.io/f/xbjnjlkr"
   method="POST"
@@ -24,6 +28,12 @@ Contact us today to discuss how we can bring your ideas to life through a blend 
     <input type="email" name="email">
   </label>
   <label>
+     </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <button type="submit">Send</button>
     Your file:
     <input type="file" name="upload">
   </label>
