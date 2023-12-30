@@ -13,3 +13,19 @@ Our production team is equipped to handle a variety of multimedia projects, rang
 Explore the possibilities with JJJAD Productions. Transform your vision into compelling realities, and let us be your trusted partner in the world of multimedia.
 
 Contact us today to discuss how we can bring your ideas to life through a blend of creativity and technical mastery.
+
+<form
+  action="https://formspree.io/f/xbjnjlkr"
+  method="POST"
+  enctype="multipart/form-data"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your file:
+    <input type="file" name="upload">
+  </label>
+  <button type="submit">Send</button>
+</form>
