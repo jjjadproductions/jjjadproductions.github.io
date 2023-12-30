@@ -16,26 +16,3 @@ Contact us today to discuss how we can bring your ideas to life through a blend 
 
 
 
-.
-
-<form
-  action="https://formspree.io/f/xbjnjlkr"
-  method="POST"
-  enctype="multipart/form-data"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-     </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <button type="submit">Send</button>
-    Your file:
-    <input type="file" name="upload">
-  </label>
-  <button type="submit">Send</button>
-</form>
