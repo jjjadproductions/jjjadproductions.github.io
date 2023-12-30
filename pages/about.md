@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+image: 
 ---
 
 Welcome to JJJAD Productions, where creativity meets technical expertise. As a production house, we specialize in crafting visual content and developing brand identities. Our experienced team is dedicated to delivering high-quality work, blending innovation with precision.
