@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Get Started
-category: start
+category: plans
 permalink: /plans
 ---
